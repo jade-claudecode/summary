@@ -1,0 +1,21 @@
+{
+  "name": "summary-team",
+  "owner": {
+    "name": "문서요약 팀",
+    "email": "9605by@gmail.com"
+  },
+  "description": "문서요약 팀 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "summary",
+      "source": "./",
+      "displayName": "문서요약 팀",
+      "description": "AI 뉴스 수집·요약·검증 파이프라인. 지난 24시간 AI 뉴스를 자동 수집하여 요약 리포트를 생성함",
+      "author": {
+        "name": "문서요약 팀",
+        "email": "9605by@gmail.com"
+      },
+      "keywords": ["news", "summary", "ai", "report"]
+    }
+  ]
+}
