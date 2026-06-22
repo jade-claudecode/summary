@@ -1,7 +1,7 @@
 {
   "name": "summary",
   "displayName": "문서요약 팀",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI 뉴스 수집·요약·검증 파이프라인. 지난 24시간 AI 뉴스(해외 2개 + 국내 3개)를 자동으로 수집하고 요약 리포트를 생성함",
   "author": {
     "name": "문서요약 팀",
